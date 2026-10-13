@@ -76,7 +76,7 @@ flowchart LR
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>RivalMatch</h3>
+      <h3><a href="#about-rivalmatch">RivalMatch</a></h3>
       <sub>Find rival teams and schedule matches · private repo · team of 4</sub>
       <p>Backend auth (Argon2, per OWASP), team management, rival search and the match acceptance flow,
       with <b>WebSockets</b> and E2E tests for every endpoint.</p>
@@ -94,6 +94,22 @@ flowchart LR
 
 Also contributed to [**Transcriptor-Audios**](https://github.com/Tomas093/Transcriptor-Audios): transcribes and
 summarizes WhatsApp voice notes fully offline with Whisper and a local LLM.
+
+### About RivalMatch
+
+<sub>Private repo · team of 4</sub>
+
+Amateur teams post a rival search (sport, age range, skill level, gender), other teams accept or reject it, and an
+accepted search becomes a match with its own chat room and result. My work on the backend:
+
+- **Auth** with JWT (Passport) and **Argon2** password hashing, replacing bcrypt following OWASP guidance.
+- **Teams**: edit and delete your own team, team password.
+- **Matching flow**: accepting rival searches, search results, "my matches", and checking that both teams accepted
+  before a match is confirmed.
+- **WebSockets** (Socket.IO) setup used by the match chat.
+- **Validation pipes** on every endpoint and **E2E tests** against a real Postgres in Docker.
+
+<sub>`NestJS` `Prisma` `PostgreSQL` `Socket.IO` `Jest`</sub>
 
 <details>
 <summary><b>Versión en español</b></summary>
