@@ -5,7 +5,7 @@ Backend developer focused on **applied AI**: I build the APIs, queues and servic
 Software Engineering student at **Universidad Austral** (Buenos Aires, Argentina).
 
 **Stack:** TypeScript · NestJS · Prisma · Kotlin · Spring Boot · Python · FastAPI · PostgreSQL · Docker · GitHub Actions
-**AI:** YOLO (object detection) · LLM vision & extraction (Claude) · Whisper · Ollama
+**AI:** YOLO (object detection) . RF-DETR (Real-Time DEtection TRansformer) · LLM vision & extraction (Claude) · Whisper · Ollama
 
 ---
 
