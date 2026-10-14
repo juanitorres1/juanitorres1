@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-ignacio-torres-91ba1731b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-juan--ignacio--torres-0A66C2?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/juan-ignacio-torres-gramigna"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-juan--ignacio--torres--gramigna-0A66C2?style=flat-square"></a>
   <a href="mailto:juanignaciot640@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juanignaciot640%40gmail.com-57606a?style=flat-square"></a>
   <img alt="Based in Buenos Aires" src="https://img.shields.io/badge/Based_in-Buenos_Aires,_AR-57606a?style=flat-square">
   <img alt="Open to backend and applied AI roles" src="https://img.shields.io/badge/Open_to-Backend_%26_Applied_AI_roles-1a7f37?style=flat-square">
